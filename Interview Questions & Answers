@@ -1,0 +1,25 @@
+Interview Questions & Answers
+Q1. Why did you choose Regression?
+
+Answer:
+Marks are continuous numerical values, so regression is the appropriate approach instead of classification.
+
+Q2. Why compare multiple models?
+
+Answer:
+Different algorithms perform differently on different datasets. Comparing them helps select the model with the best R² score and lowest error.
+
+Q3. What is Train-Test Split?
+
+Answer:
+The dataset is divided into training and testing sets. The model learns from the training data and is evaluated on unseen testing data.
+
+Q4. What is R² Score?
+
+Answer:
+R² measures how well the model explains the variance in the target variable. A value closer to 1 indicates a better fit.
+
+Q5. Why save the model?
+
+Answer:
+Saving the trained model allows reuse for predictions without retraining every time, reducing computation time.
